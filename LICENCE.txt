@@ -1,0 +1,177 @@
+﻿GI-FLOW MUSIC
+CONDITIONS GÉNÉRALES D'INSTALLATION ET D'UTILISATION
+CONTRAT DE LICENCE UTILISATEUR FINAL
+Version 2.1 — en vigueur au 12 novembre 2026
+
+VEUILLEZ LIRE ATTENTIVEMENT LE PRÉSENT DOCUMENT AVANT D'INSTALLER OU D'UTILISER LE LOGICIEL.
+En cochant la case d'acceptation, en installant ou en utilisant GI-Flow Music, vous reconnaissez avoir lu, compris et accepté sans réserve l'intégralité des présentes conditions. Si vous ne les acceptez pas, cliquez sur « Annuler » : n'installez pas et n'utilisez pas le logiciel.
+
+
+RÉSUMÉ — À LIRE EN PRIORITÉ
+(Ce résumé ne remplace pas les articles ci-dessous, qui seuls font foi.)
+
+• GI-Flow Music est un logiciel GRATUIT, créé par un PARTICULIER, sur son temps libre, POUR LE PLAISIR. Ce n'est ni une entreprise, ni un professionnel, ni un vendeur, ni un service après-vente.
+• Le logiciel est fourni « EN L'ÉTAT », SANS AUCUNE GARANTIE. Il peut contenir des erreurs, cesser de fonctionner ou ne jamais être mis à jour.
+• Vous l'installez et l'utilisez ENTIÈREMENT À VOS PROPRES RISQUES. Sauvegardez vos données avant l'installation.
+• Dans toute la mesure permise par la loi, l'auteur N'EST RESPONSABLE D'AUCUN DOMMAGE lié au logiciel.
+• Le logiciel fonctionne avec VOTRE clé Google Gemini : vos saisies et fichiers sont envoyés à Google, pas à l'auteur. Les éventuels frais ou blocages de compte Google sont votre affaire.
+• Vous êtes SEUL RESPONSABLE des fichiers que vous analysez et de ce que vous faites des contenus générés (droits d'auteur, usage commercial, publication).
+• GI-Flow Music n'est NI AFFILIÉ, NI APPROUVÉ, NI SPONSORISÉ par Google ou par un quelconque service tiers, y compris tout service portant un nom identique ou similaire.
+
+
+ARTICLE 1 — AUTEUR, STATUT ET OBJET
+
+1.1. Le logiciel « GI-Flow Music » (ci-après le « Logiciel ») est créé et mis à disposition par web1099appli (pseudonyme) (ci-après l'« Auteur »), personne physique agissant exclusivement à titre privé, personnel, bénévole et non professionnel, dans le cadre d'un loisir. Contact : web1099appli@gmail.com. Page officielle : https://github.com/web1099appli-lab.
+
+1.2. L'Auteur n'exerce aucune activité commerciale, artisanale, libérale ou professionnelle en lien avec le Logiciel. Il n'en retire aucune rémunération, directe ou indirecte (ni prix, ni abonnement, ni publicité, ni collecte de données, ni don obligatoire). La mise à disposition du Logiciel constitue une libéralité à titre gratuit et ne crée aucune relation commerciale, contractuelle onéreuse ou de consommation entre l'Auteur et l'Utilisateur. En conséquence, l'Auteur n'a pas la qualité de « professionnel » ou de « vendeur » au sens du Code de la consommation ou du Code civil, et les obligations propres aux professionnels (notamment la garantie légale de conformité des contenus et services numériques) ne lui sont pas applicables.
+
+1.3. Le Logiciel est un outil expérimental d'aide à la rédaction de descriptions textuelles (« prompts ») destinées à des services tiers de génération musicale par intelligence artificielle. Il permet notamment de combiner des styles musicaux et d'analyser un fichier fourni par l'Utilisateur afin de proposer un prompt en anglais.
+
+1.4. Les présentes conditions (ci-après les « Conditions ») régissent le téléchargement, l'installation et l'utilisation du Logiciel par toute personne (ci-après l'« Utilisateur »).
+
+
+ARTICLE 2 — GRATUITÉ ET LICENCE
+
+2.1. Le Logiciel est mis à disposition gratuitement, sans contrepartie d'aucune sorte.
+
+2.2. L'Auteur concède à l'Utilisateur une licence d'utilisation privée, gratuite, non exclusive, non cessible, précaire et révocable à tout moment, pour installer et utiliser le Logiciel sur ses propres appareils.
+
+2.3. Le Logiciel est destiné à un usage personnel et de loisir. Il n'est pas conçu pour un usage professionnel, commercial ou critique, et ne doit en aucun cas être utilisé dans un contexte où une erreur, une indisponibilité ou un résultat inexact pourrait causer un préjudice. Tout usage de cette nature est effectué aux seuls risques de l'Utilisateur.
+
+2.4. Sauf accord écrit préalable de l'Auteur, et sous réserve des droits impératifs reconnus par la loi (notamment l'article L. 122-6-1 du Code de la propriété intellectuelle), il est interdit de : vendre, louer ou concéder le Logiciel à des tiers ; le redistribuer, en tout ou partie, sous une forme modifiée ou depuis une autre source que la page officielle ; supprimer les mentions de propriété ou les présentes Conditions ; utiliser le Logiciel à des fins illicites ou portant atteinte aux droits de tiers.
+
+2.5. Le Logiciel, son interface et sa documentation demeurent la propriété de l'Auteur. Les composants libres (« open source ») intégrés au Logiciel (notamment Electron, Chromium, React) restent soumis à leurs licences respectives, fournies avec le Logiciel.
+
+
+ARTICLE 3 — CONDITIONS D'INSTALLATION
+
+3.1. Avant toute installation, l'Utilisateur est invité à sauvegarder l'ensemble de ses données importantes. Il reconnaît que l'installation, la mise à jour et la désinstallation de tout logiciel comportent des risques (conflit avec d'autres logiciels, ralentissement, perte de données, alerte de sécurité) qu'il accepte en connaissance de cause.
+
+3.2. Le Logiciel n'est pas signé numériquement par un certificat commercial. Windows (SmartScreen) ou l'antivirus de l'Utilisateur peut afficher un avertissement ou bloquer l'installation. L'Utilisateur décide librement, et sous sa seule responsabilité, de poursuivre ou non.
+
+3.3. L'Utilisateur doit télécharger le Logiciel uniquement depuis la page officielle indiquée à l'article 1 et peut en vérifier l'empreinte (SHA-256). L'Auteur décline toute responsabilité concernant les copies obtenues ailleurs, lesquelles peuvent avoir été modifiées ou contenir des programmes malveillants.
+
+3.4. L'Utilisateur s'assure lui-même que son ordinateur est compatible (Windows 10/11 64 bits, connexion Internet) et qu'il dispose des droits nécessaires pour y installer un logiciel. S'il installe le Logiciel sur un ordinateur qui ne lui appartient pas (ordinateur professionnel, scolaire ou d'un tiers), il le fait sous sa seule responsabilité et doit avoir obtenu l'autorisation du propriétaire.
+
+3.5. L'installation crée un raccourci sur le Bureau et dans le menu Démarrer. Le Logiciel peut être désinstallé à tout moment depuis les Paramètres de Windows.
+
+
+ARTICLE 4 — CONDITIONS D'ACCÈS ET SERVICES TIERS
+
+4.1. L'Utilisateur doit être majeur, ou disposer de l'autorisation de son représentant légal, et respecter les conditions d'âge imposées par les services tiers utilisés. Le représentant légal d'un Utilisateur mineur est responsable de l'usage que celui-ci fait du Logiciel.
+
+4.2. Le Logiciel fonctionne exclusivement à l'aide de l'interface de programmation (API) Google Gemini, fournie par Google LLC et ses sociétés affiliées. Son utilisation nécessite une connexion Internet et une clé API personnelle que l'Utilisateur obtient lui-même auprès de Google et sous sa seule responsabilité.
+
+4.3. En utilisant le Logiciel, l'Utilisateur s'engage à respecter les conditions d'utilisation, règles d'usage et politiques de confidentialité de Google applicables à l'API Gemini, ainsi que celles de tout service tiers vers lequel il transfère les prompts générés.
+
+4.4. Les éventuels frais, facturations, quotas, limitations, suspensions ou fermetures de compte liés à la clé API de l'Utilisateur relèvent exclusivement de la relation entre l'Utilisateur et Google. L'Auteur ne saurait en aucun cas être tenu de les prendre en charge ou de les rembourser.
+
+4.5. L'Auteur n'exerce aucun contrôle sur les services tiers, leur disponibilité, leurs tarifs, leurs évolutions ou leurs résultats, et décline toute responsabilité à leur égard. Une modification d'un service tiers peut rendre le Logiciel partiellement ou totalement inutilisable, sans que l'Auteur soit tenu d'y remédier.
+
+
+ARTICLE 5 — NOM DU LOGICIEL, MARQUES ET INDÉPENDANCE
+
+5.1. Le Logiciel est un projet personnel indépendant. Il n'est ni affilié, ni associé, ni autorisé, ni approuvé, ni sponsorisé par Google LLC, ni par l'éditeur d'un quelconque service de génération musicale, ni par aucun autre tiers cité.
+
+5.2. Le nom « GI-Flow Music » désigne uniquement le présent Logiciel de loisir. Il ne traduit aucun lien avec un produit, un service ou une marque de tiers portant un nom identique ou similaire, et ne doit pas être compris comme tel. « Google », « Gemini », « Google AI Studio », « Flow », « Lyria » et toute autre marque citée sont la propriété de leurs titulaires respectifs et ne sont mentionnées qu'afin d'indiquer la compatibilité technique du Logiciel.
+
+5.3. Si un titulaire de droits estime que le nom ou un élément du Logiciel porte atteinte à ses droits, il est invité à contacter l'Auteur à l'adresse indiquée à l'article 1, qui s'engage à examiner la demande de bonne foi et, le cas échéant, à renommer ou modifier le Logiciel.
+
+
+ARTICLE 6 — DONNÉES PERSONNELLES ET CONFIDENTIALITÉ
+
+6.1. L'Auteur ne collecte, ne reçoit et ne conserve aucune donnée personnelle de l'Utilisateur. Le Logiciel ne contient ni publicité, ni traceur, ni outil de mesure d'audience, et n'envoie aucune donnée à l'Auteur.
+
+6.2. La clé API, les réglages et l'historique des prompts sont stockés uniquement sur l'ordinateur de l'Utilisateur (la clé API étant chiffrée à l'aide des mécanismes de Windows). L'Utilisateur peut les supprimer à tout moment depuis le Logiciel ou en supprimant le dossier de données de l'application. La sécurité de son ordinateur et de sa session Windows relève de sa seule responsabilité.
+
+6.3. Les textes saisis, les choix effectués et les fichiers soumis à l'analyse sont transmis directement par l'ordinateur de l'Utilisateur à Google, qui les traite conformément à ses propres conditions et à sa politique de confidentialité. Selon le type de compte Google utilisé (notamment un accès gratuit), ces données peuvent être conservées, examinées ou utilisées par Google, par exemple pour améliorer ses services. L'Auteur n'a aucun accès à ces données et n'est pas responsable de leur traitement par Google.
+
+6.4. L'Utilisateur s'interdit de soumettre au Logiciel des données sensibles, confidentielles ou des données personnelles de tiers sans base légale ni autorisation.
+
+
+ARTICLE 7 — FICHIERS ANALYSÉS
+
+7.1. L'Utilisateur garantit qu'il est titulaire des droits ou dispose des autorisations nécessaires sur tout fichier (audio, vidéo, image, texte, paroles, document) qu'il soumet à l'analyse, et que cette soumission ne porte atteinte à aucun droit de tiers (droit d'auteur, droits voisins, droit à l'image, vie privée, secret, etc.).
+
+7.2. L'Utilisateur est seul responsable des fichiers qu'il soumet et de l'usage qu'il fait des résultats de l'analyse. L'analyse a pour seul objet de décrire des caractéristiques musicales générales (genre, tempo, instrumentation, ambiance) ; elle ne doit pas être utilisée pour reproduire, copier ou contrefaire une œuvre protégée.
+
+
+ARTICLE 8 — CONTENUS GÉNÉRÉS PAR L'INTELLIGENCE ARTIFICIELLE
+
+8.1. Les prompts, descriptions, analyses et paramètres (tempo, tonalité, etc.) sont produits automatiquement par un système d'intelligence artificielle tiers. Ils peuvent être inexacts, incomplets, inappropriés, choquants ou similaires à des contenus existants. L'Auteur ne contrôle pas ces contenus et ne garantit ni leur exactitude, ni leur originalité, ni leur licéité, ni leur adéquation à un usage particulier.
+
+8.2. L'Auteur ne revendique aucun droit sur les contenus générés par l'Utilisateur. L'Utilisateur est seul responsable de la vérification, de l'utilisation et de la diffusion des prompts et de toute œuvre (notamment musicale) créée ultérieurement à l'aide de services tiers, y compris du respect des droits de propriété intellectuelle de tiers, des marques, et des conditions de ces services relatives à l'usage commercial des contenus.
+
+8.3. Aucune garantie n'est donnée quant au caractère « libre de droits » ou exploitable commercialement des contenus produits à partir des prompts.
+
+
+ARTICLE 9 — ABSENCE TOTALE DE GARANTIE
+
+9.1. LE LOGICIEL EST FOURNI GRATUITEMENT « EN L'ÉTAT », « TEL QUE DISPONIBLE » ET « AVEC TOUS SES DÉFAUTS », SANS AUCUNE GARANTIE D'AUCUNE SORTE, EXPRESSE OU IMPLICITE, DANS TOUTE LA MESURE PERMISE PAR LA LOI APPLICABLE, Y COMPRIS, SANS LIMITATION, LES GARANTIES DE QUALITÉ, DE CONFORMITÉ, DE FONCTIONNEMENT, DE SÉCURITÉ, D'ADÉQUATION À UN USAGE PARTICULIER ET D'ABSENCE DE CONTREFAÇON.
+
+9.2. L'Auteur ne garantit notamment pas que le Logiciel : répondra aux besoins de l'Utilisateur ; fonctionnera de manière ininterrompue, sécurisée ou exempte d'erreurs, de failles ou de bogues ; sera compatible avec la configuration de l'Utilisateur ou avec les évolutions futures de Windows ou des services tiers ; ne sera pas détecté à tort comme suspect par un antivirus ; ni que les éventuels défauts seront corrigés.
+
+9.3. Aucune assistance, maintenance, correction, mise à jour ni réponse aux messages n'est due par l'Auteur. Celles qu'il fournirait éventuellement le seraient à titre purement gracieux, sans engagement pour l'avenir.
+
+9.4. L'Utilisateur reconnaît que la gratuité du Logiciel et le statut de particulier de l'Auteur justifient l'absence de toute garantie et la limitation de responsabilité prévue ci-dessous, sans lesquelles l'Auteur n'aurait pas mis le Logiciel à disposition.
+
+
+ARTICLE 10 — UTILISATION AUX RISQUES DE L'UTILISATEUR ET LIMITATION DE RESPONSABILITÉ
+
+10.1. L'Utilisateur installe et utilise le Logiciel de sa propre initiative, librement et ENTIÈREMENT À SES PROPRES RISQUES. Il assume seul l'ensemble des risques liés à la qualité, au fonctionnement et aux performances du Logiciel ainsi qu'à son installation.
+
+10.2. DANS TOUTE LA MESURE PERMISE PAR LA LOI APPLICABLE, L'AUTEUR NE POURRA EN AUCUN CAS ÊTRE TENU RESPONSABLE D'UN QUELCONQUE DOMMAGE, DIRECT OU INDIRECT, MATÉRIEL OU IMMATÉRIEL, PRÉVISIBLE OU IMPRÉVISIBLE, RÉSULTANT DU TÉLÉCHARGEMENT, DE L'INSTALLATION, DE LA DÉSINSTALLATION, DE L'UTILISATION OU DE L'IMPOSSIBILITÉ D'UTILISER LE LOGICIEL, NOTAMMENT : perte, altération ou divulgation de données ; dysfonctionnement ou endommagement de l'ordinateur, du système d'exploitation ou d'autres logiciels ; temps perdu ; frais, dépassements de quota, suspension ou fermeture de compte décidés par Google ou tout autre service tiers ; perte de revenus, de chance, de clientèle ou d'opportunité ; atteinte à l'image ; réclamation de tiers liée aux fichiers soumis ou aux contenus générés ou diffusés par l'Utilisateur ; indisponibilité ou modification des services tiers.
+
+10.3. Dans l'hypothèse où la responsabilité de l'Auteur serait néanmoins retenue, et dans toute la mesure permise par la loi, le montant total des sommes susceptibles d'être mises à sa charge, tous préjudices et toutes causes confondus, est limité au prix payé par l'Utilisateur pour obtenir le Logiciel, soit zéro (0) euro, le Logiciel étant gratuit.
+
+10.4. Les stipulations du présent article et de l'article 9 ne s'appliquent pas aux cas dans lesquels la loi interdit d'exclure ou de limiter la responsabilité, notamment en cas de dommage corporel, de dol, de faute lourde ou de faute intentionnelle de l'Auteur. Elles ne privent pas l'Utilisateur des droits impératifs que la loi lui reconnaît. Dans ces seuls cas, la responsabilité de l'Auteur est limitée au strict minimum prévu par la loi.
+
+
+ARTICLE 11 — RESPONSABILITÉ ET ENGAGEMENTS DE L'UTILISATEUR
+
+11.1. L'Utilisateur est seul responsable de l'usage qu'il fait du Logiciel, de sa clé API, des fichiers qu'il soumet et des contenus qu'il génère ou publie, ainsi que des conséquences de tout manquement aux présentes Conditions, à la loi ou aux conditions des services tiers.
+
+11.2. Il appartient à l'Utilisateur de protéger son ordinateur (antivirus, mises à jour) et de sauvegarder régulièrement ses données.
+
+11.3. L'Utilisateur garantit l'Auteur contre toute réclamation, action ou demande d'un tiers (y compris de Google ou de tout titulaire de droits) qui résulterait de l'utilisation qu'il fait du Logiciel, des fichiers qu'il soumet ou des contenus qu'il génère, diffuse ou exploite, en violation des présentes Conditions, de la loi ou des droits de tiers. Il s'engage, dans ce cas, à indemniser l'Auteur des conséquences qui pourraient en résulter, dans les limites prévues par la loi.
+
+
+ARTICLE 12 — ÉVOLUTION ET ARRÊT DU LOGICIEL
+
+L'Auteur peut à tout moment, sans préavis, sans justification et sans indemnité, modifier le Logiciel, en retirer des fonctions, en suspendre ou en cesser la distribution, ou abandonner son développement.
+
+
+ARTICLE 13 — MODIFICATION DES CONDITIONS
+
+L'Auteur peut modifier les présentes Conditions. Toute nouvelle version est soumise à l'acceptation de l'Utilisateur lors de l'installation ou du lancement d'une nouvelle version du Logiciel. À défaut d'acceptation, l'Utilisateur doit cesser d'utiliser le Logiciel et le désinstaller.
+
+
+ARTICLE 14 — DURÉE ET RÉSILIATION
+
+Les présentes Conditions s'appliquent pendant toute la durée d'utilisation du Logiciel. L'Utilisateur peut y mettre fin à tout moment en désinstallant le Logiciel. Toute violation des Conditions met fin automatiquement et immédiatement à la licence concédée, l'Utilisateur devant alors désinstaller le Logiciel. Les articles 5, 7 à 11 et 16 survivent à la fin de la licence.
+
+
+ARTICLE 15 — DIVISIBILITÉ ET NON-RENONCIATION
+
+15.1. Si une stipulation des présentes Conditions était déclarée nulle ou inapplicable, en tout ou partie, elle serait réputée non écrite dans cette seule mesure, sans affecter la validité des autres stipulations, et serait remplacée par une stipulation valable d'effet aussi proche que possible.
+
+15.2. Le fait pour l'Auteur de ne pas se prévaloir d'une stipulation des présentes Conditions ne vaut pas renonciation à s'en prévaloir ultérieurement.
+
+
+ARTICLE 16 — DROIT APPLICABLE ET LITIGES
+
+16.1. Les présentes Conditions sont régies par le droit français.
+
+16.2. En cas de difficulté, l'Utilisateur s'engage à contacter préalablement et par écrit l'Auteur à l'adresse indiquée à l'article 1 afin de rechercher une solution amiable, avant toute action.
+
+16.3. À défaut d'accord amiable, le litige sera porté devant les juridictions compétentes dans les conditions du droit commun. L'Utilisateur ayant la qualité de consommateur conserve la possibilité de saisir la juridiction de son lieu de résidence.
+
+
+ARTICLE 17 — ACCEPTATION
+
+En cochant la case « J'ai lu et j'accepte les conditions d'installation et d'utilisation », en confirmant l'installation ou en cliquant sur le bouton d'acceptation dans le Logiciel, l'Utilisateur déclare :
+— avoir pris connaissance de l'intégralité des présentes Conditions, et notamment du résumé et des articles 1 (statut de particulier de l'Auteur), 3 (conditions d'installation), 4 (services tiers), 5 (indépendance), 6 (données), 7 (fichiers analysés), 8 (contenus générés), 9 (absence de garantie), 10 (utilisation à ses risques et limitation de responsabilité) et 11 (responsabilité de l'Utilisateur) ;
+— les accepter sans réserve ;
+— installer et utiliser le Logiciel en toute connaissance de cause et à ses propres risques.
+
+Une copie des présentes Conditions est installée avec le Logiciel (fichier « CGU-GI-Flow-Music.txt ») et reste consultable à tout moment depuis les Réglages et le pied de page de l'application.
